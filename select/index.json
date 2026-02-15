@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "She Doesn't Mind",
+  "base_artist": "Sean Paul",
+  "createdAt": "2026-02-15T03:58:20.659222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/01_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/02_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/03_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "She Doesn't Mind (2012)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/04_She_Doesn't_Mind_(2012)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "She doesn't mind (remix)",
+      "artist": "Sean Paul & Faydee",
+      "has_synced": false,
+      "path": "select/05_She_doesn't_mind_(remix)_Sean_Paul_&_Faydee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "She Doesn't Mind (Pitbull Remix)",
+      "artist": "Sean Paul & Pitbull",
+      "has_synced": true,
+      "path": "select/06_She_Doesn't_Mind_(Pitbull_Remix)_Sean_Paul_&_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/07_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Cosmo Jarvis",
+      "has_synced": false,
+      "path": "select/08_She_Doesn't_Mind_Cosmo_Jarvis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Elvatix",
+      "has_synced": true,
+      "path": "select/09_She_Doesn't_Mind_Elvatix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/10_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Doesn't Mind (Pitbull Remix)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/11_She_Doesn't_Mind_(Pitbull_Remix)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/12_She_Doesn't_Mind_Sean_Paul.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She Doesn't Mind",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/pl_01_She_Doesn't_Mind_Sean_Paul.txt"
+    }
+  ]
+}
